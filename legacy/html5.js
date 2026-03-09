@@ -61,7 +61,9 @@ $(document).ready(function () {
     "https://katze.qqdl.site",
     "https://hund.qqdl.site",
     "https://tidal.kinoplus.online",
-    "https://tidal-api.binimum.org",
+    "https://api.monochrome.tf",
+    "https://triton.squid.wtf",
+    "
   ];
   var audioPlayer = $("#audio-player")[0];
   var currentTrackInfo = $("#now-playing-info");
