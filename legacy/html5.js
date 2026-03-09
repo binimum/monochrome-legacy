@@ -63,7 +63,6 @@ $(document).ready(function () {
     "https://tidal.kinoplus.online",
     "https://api.monochrome.tf",
     "https://triton.squid.wtf",
-    "
   ];
   var audioPlayer = $("#audio-player")[0];
   var currentTrackInfo = $("#now-playing-info");
