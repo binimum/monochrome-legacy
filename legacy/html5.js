@@ -55,14 +55,7 @@ $(document).ready(function () {
   var currentInstanceIndex = 0;
   var isHttpFallback = false;
   var FALLBACK_INSTANCES = [
-    "https://wolf.qqdl.site",
-    "https://maus.qqdl.site",
-    "https://vogel.qqdl.site",
-    "https://katze.qqdl.site",
-    "https://hund.qqdl.site",
-    "https://tidal.kinoplus.online",
-    "https://api.monochrome.tf",
-    "https://triton.squid.wtf",
+    "https://hifi-2tzpyfhd.geeked.wtf",
   ];
   var audioPlayer = $("#audio-player")[0];
   var currentTrackInfo = $("#now-playing-info");
